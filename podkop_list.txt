@@ -1,4 +1,6 @@
 web.public-pool.io
+cryptobubbles.net
+ficbook.net
 
 
 
